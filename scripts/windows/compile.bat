@@ -1,0 +1,11 @@
+cd ../../src
+javac communicationChannels/*.java
+javac communicationChannels/client/*.java
+javac communicationChannels/centralizedChordManager/actions/*.java
+javac communicationChannels/peer/server/*.java
+javac models/*.java
+javac protocolActions/*.java
+javac rmi_interface/*.java
+javac utils/*.java
+javac threads/*.java
+javac TestApp.java
